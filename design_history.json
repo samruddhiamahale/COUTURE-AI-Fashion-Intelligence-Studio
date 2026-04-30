@@ -1,0 +1,46 @@
+[
+    {
+        "description": "Luxury party wear with minimalist vibe with velvet for season autumn",
+        "category": "Women",
+        "style": "Party Wear",
+        "style_vibe": "Minimalist",
+        "fabric": "Velvet",
+        "season": "Autumn",
+        "occasion": "Party",
+        "budget": "\u20b92000-\u20b95000",
+        "date": "2026-02-25 00:19:37.173193"
+    },
+    {
+        "description": "kids clothes for outing",
+        "category": "Kids",
+        "style": "Casual",
+        "style_vibe": "Minimalist",
+        "fabric": "Cotton",
+        "season": "Spring",
+        "occasion": "Casual Outing",
+        "budget": "Under \u20b92000",
+        "date": "2026-02-25 00:31:51.799501"
+    },
+    {
+        "description": "create a big indian wedding outfit ",
+        "category": "Women",
+        "style": "Bridal Wear",
+        "style_vibe": "Traditional",
+        "fabric": "Velvet",
+        "season": "Winter",
+        "occasion": "Wedding",
+        "budget": "\u20b910000+",
+        "date": "2026-02-25 20:25:29.457525"
+    },
+    {
+        "description": "create indian wedding outfit",
+        "category": "Women",
+        "style": "Bridal Wear",
+        "style_vibe": "Traditional",
+        "fabric": "Velvet",
+        "season": "Winter",
+        "occasion": "Wedding",
+        "budget": "\u20b910000+",
+        "date": "2026-02-25 20:58:24.079764"
+    }
+]
